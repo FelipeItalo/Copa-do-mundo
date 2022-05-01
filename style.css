@@ -1,0 +1,115 @@
+img.an {
+    width: 80%; justify-content: center; border-style:groove; border-color: brown;
+}
+img.fl, p.fi, p.fit, p.fita{
+ width: 170px;  height: 170px; display: inline-block;
+}
+img.cm {
+    display: inline-block; 
+}
+
+img.cf{
+    width: 7cm;  height: 4.5cm; display: inline-block;
+}
+img.pl{
+    width: 7cm;  height: 4.5cm; display: inline-block;
+}
+img.ik{
+    width:14cm ; height:7cm ;  border-style: double; border-color: whitesmoke; background-color: brown; border-width: 1.5cm; 
+}
+#fi1{
+    width: 18cm; height: 8cm;
+}
+#fi2{
+    width: 18cm; height: 8cm;
+}
+tr.p{
+    background-color: brown;
+}
+tr.cc{
+    background-color: brown;
+}
+body{
+    background-color: whitesmoke;
+}
+h1{
+border-style: outset; border-color: brown; background-color: brown; text-align: center; font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center; border-style: outset; border-color: brown; background-color: brown;
+}
+p.inf{ border-style: double; border-color: whitesmoke; background-color: brown; border-width: 1.5cm;
+}
+p.a{
+    float: left; border-left: 6px solid brown; background-color: lightsalmon; font-size: 0.5cm; 
+}
+p.b{
+    float: left;  border-left: 6px solid brown; background-color: lightsalmon; font-size: 0.5cm;
+}
+p.c{
+    float: left;  border-left: 6px solid brown; background-color: lightsalmon; font-size: 0.5cm; 
+}
+p.gg{
+    font-size: 0.5cm;
+}
+p.pç{
+    font-size: 0.5cm;
+}
+table{
+border-color: brown; width: 70%; margin: auto; 
+}
+.fa, .fe, .fii{
+    display: flex; align-items: center; border-left: 6px solid brown; background-color: lightsalmon;
+}
+ul.sep{
+   list-style: none;
+   display: flex;
+   justify-content:space-evenly
+}
+ul.es{
+    border-style: double; border-color: brown; background-color: whitesmoke; border-width: 1.5cm; list-style: none; background-color: brown;
+}
+ul.gp{
+    border-style: double; border-color: whitesmoke; background-color: brown; border-width: 1.5cm; list-style: none; background-color: brown;
+}
+a{
+    border-style: dashed; border-color: black; background-color: black; font-size: 0.5cm;
+}
+a.mn{
+    background-color: brown; border-style:hidden; border-color: brown;
+}
+.ga, .gb, .gc, .gd{
+    display: flex; align-items: center; border-left: 6px solid brown; background-color: lightblue;
+}
+img.gdf{
+    width: 220px;  height: 170px; display: inline-block; 
+}
+
+body.ge{ background-repeat: no-repeat; background-size:cover; background-position: center;
+    background-image:url(https://1.bp.blogspot.com/-d0BIJfMwI4Y/YD_zkeG9NzI/AAAAAAAA4uo/ERT6gGWVlj0IJx7glCxcuXeVwbUinjaNQCLcBGAsYHQ/s0/Flag_of_Qatar_vertical.gif) 
+ }
+ .es{
+     background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbesacenter.org%2Fwp-content%2Fuploads%2F2020%2F11%2FLogo-of-Qatar-World-Cup-2022-image-via-Wikipedia-1-e1605605227793.png&f=1&nofb=1);
+ background-repeat: no-repeat; background-size: cover; background-position: center;  
+    }
+   .cç{
+        display: flex; justify-content: center; align-items: center;
+   }
+   .ms{
+    display: flex; justify-content: center; align-items: center; border-style: double; border-color: whitesmoke; background-color: brown; border-width: 2cm;
+   }
+   .ules{
+    display: flex; justify-content: center; align-items: center; 
+   }
+ table.tt{
+    width: 80px; height: 80px;
+ }
+ h1.da{
+     border-style: solid; border-color: green; background-color: aquamarine;
+ }
+li{
+    list-style-type: none;
+} 
+li.da{
+    font-size: 0.5cm;
+}
