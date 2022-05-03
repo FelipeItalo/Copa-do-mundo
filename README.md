@@ -5,3 +5,4 @@ Antonio Vinha,
 Eryck Rodrigues,
 Danilo Sarmento,
 Felipe Ítalo,
+https://varangoi.github.io/copa_2022_grupo_c/
